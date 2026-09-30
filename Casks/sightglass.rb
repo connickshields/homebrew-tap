@@ -2,8 +2,8 @@
 # packaging/sightglass.rb.tmpl. Edits made here are overwritten by the next
 # release, so change the template instead.
 cask "sightglass" do
-  version "0.1.1"
-  sha256 "16e7f08eb2e233fa2535fd37e087d17f9bc8fdcf7d7ffd025b9f15c99e953e99"
+  version "0.1.2"
+  sha256 "610962eb8f30c12d93dc4e4332d3655c14d440db0653d471d63d8e97590f6190"
 
   url "https://github.com/connickshields/sightglass/releases/download/v#{version}/Sightglass-#{version}.zip"
   name "Sightglass"
